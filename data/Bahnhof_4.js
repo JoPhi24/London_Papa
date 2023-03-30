@@ -1,0 +1,1 @@
+var json_Bahnhof_4 = {"type":"FeatureCollection","name":"Bahnhof_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"London St Pancras"},"geometry":{"type":"Point","coordinates":[-0.126853074835772,51.531886372683061]}}]}

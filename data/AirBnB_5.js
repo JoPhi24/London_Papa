@@ -1,0 +1,1 @@
+var json_AirBnB_5 = {"type":"FeatureCollection","name":"AirBnB_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":null},"geometry":{"type":"Point","coordinates":[-0.128980471951279,51.587753332552005]}}]}
